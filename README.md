@@ -8,6 +8,9 @@
 ## Скриншоты
 ![Demo](https://github.com/zhukvo/Lunatic/assets/155824263/64fdf12e-1077-44d4-b8cd-12dc3484520e)
 
+## Запуск
+Скачать проект и запустить Lunatic.exe. 
+
 ## Технические данные
 Игра реализована на Python с использование PyGames
 
